@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.so
+build/
+dist/
+*.egg-info/
+.venv
+netflix-env/
+
+# Power BI
+*.pbix.bak
+
+# Tableau  
+*.twb~
+*.twbx~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+
+# Logs
+*.log
